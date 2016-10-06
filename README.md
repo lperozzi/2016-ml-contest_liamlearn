@@ -1,4 +1,5 @@
 # 2016-ml-contest
+#letsdoit
 Machine learning contest - liamLEARN team
 
 Welcome to the *Geophysical Tutorial* Machine Learning Contest 2016! Read all about the contest in [the October 2016 issue](http://library.seg.org/toc/leedff/35/10) of the magazine. Look for Brendon Hall's tutorial on lithology prediction with machine learning.
