@@ -1,5 +1,5 @@
 # 2016-ml-contest
-Machine learning contest
+Machine learning contest - liamLEARN team
 
 Welcome to the *Geophysical Tutorial* Machine Learning Contest 2016! Read all about the contest in [the October 2016 issue](http://library.seg.org/toc/leedff/35/10) of the magazine. Look for Brendon Hall's tutorial on lithology prediction with machine learning.
 
@@ -33,4 +33,4 @@ We've never done anything like this before, so there's a good chance these rules
 - The contest is over at 23:59:59 UT (i.e. midnight in London, UK) on 31 January 2017. Pull requests made aftetr that time won't be eligible for the contest.
 - If you can do even better with code you don't wish to share fully, that's really cool, nice work! But you can't enter it for the contest. We invite you to share your result through your blog or other channels... maybe a paper in *The Leading Edge*.
 - This document and documents it links to will be the channel for communication of the leading solution and everything else about the contest.
-- This document contains the rules. Our decision is final. No purchase necessary. Please exploit artificial intelligence responsibly. 
+- This document contains the rules. Our decision is final. No purchase necessary. Please exploit artificial intelligence responsibly.
